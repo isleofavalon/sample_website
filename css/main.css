@@ -2,5 +2,32 @@
   text-align: right;
 }
 .nav-spacing {
-margin-left: 10px;
+  margin-left: 10px;
+}
+.nav-twitter {
+  text-decoration: none;
+}
+.nav-quote {
+  style="padding: 2px 20px; background: #ccc;"
+}
+.table {
+  style="padding: 10px"
+}
+.moby-big-header {
+  style="text-align: center; margin: 0 0 80px"
+}
+.moby-img {
+  style="display: block; margin: 0 auto;"
+}
+.moby-block {
+  style="width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;"
+}
+.moby-book-cover {
+  style="float: left; margin: 0 40px 0 0;"
+}
+.moby-quote {
+  style="font-style: italic; font-size: 20px;"
+}
+.moby-page {
+  style="font-style: normal; font-size: 24px; font-weight: bold; color: #f00000;"
 }
